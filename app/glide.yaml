@@ -1,0 +1,4 @@
+package: github.com/tryggth/hraftd
+import:
+- package: github.com/hashicorp/raft
+- package: github.com/hashicorp/raft-boltdb
