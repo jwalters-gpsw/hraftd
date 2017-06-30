@@ -10,8 +10,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/otoolep/hraftd/http"
-	"github.com/otoolep/hraftd/store"
+	"github.com/tryggth/hraftd/http"
+	"github.com/tryggth/hraftd/store"
 )
 
 // Command line defaults
